@@ -4,8 +4,8 @@
 
 ## 在线试玩
 上传本包到 GitHub 并开启 Pages 后：
-- GitHub Pages：https://888miao888.github.io/<你的仓库名>/standalone.html
-- jsDelivr CDN（国内更快）：https://cdn.jsdelivr.net/gh/888miao888/<你的仓库名>@main/standalone.html
+- GitHub Pages：https://888miao888.github.io/cat-game/standalone.html
+- jsDelivr CDN（国内更快）：https://cdn.jsdelivr.net/gh/888miao888/cat-game@main/standalone.html
 
 ## 玩法
 - 左右方向键 / A D 或鼠标拖动移动猫猫（手机触屏也可以）
